@@ -158,7 +158,14 @@ User uploads Resume PDF + pastes Job Description
 
 ## 📸 Screenshots <a name="screenshots"></a>
 
-> 📌 **Action item:** Add 2–3 screenshots of your app's output here.
+
+(assets/Screenshot 2026-05-23 000956.png)
+(assets/Screenshot 2026-05-23 001104.png)
+(assets/Screenshot 2026-05-23 001220.png)
+(assets/Screenshot 2026-05-23 001246.png)
+(assets/Screenshot 2026-05-23 001327.png)
+(assets/Screenshot 2026-05-23 142329.png)
+(assets/Screenshot 2026-05-23 142415.png)
 
 ---
 
